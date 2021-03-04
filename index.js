@@ -39,7 +39,7 @@ function showNotes() {
         myNotes.innerHTML = html;
     }
     else {
-        myNotes.innerHTML = `<b> No Notes to be displayed</b>`;
+        myNotes.innerHTML = `<b> No Notes to be Displayed | Add your first note </b> <br>Hola!,its my first java script project,you can add your notes which will be personlised to you.<br>Created By Divyanshu Kaushik`;
     }
 }
 // deleting the note 
